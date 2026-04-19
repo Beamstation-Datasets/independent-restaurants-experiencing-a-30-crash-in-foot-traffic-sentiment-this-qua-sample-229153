@@ -1,6 +1,6 @@
 # Independent Restaurants Experiencing a 30%+ Crash in Foot Traffic & Sentiment This Quarter in Idaho
 
-> Free BeamStation sample export with 19 rows and masked direct-contact fields.
+> Free BeamStation sample export with 23 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `229153` |
 | Location | Idaho |
 | Category | Food and Drink |
-| Full dataset size | 195 records |
-| Free sample size | 19 records (9.74%) |
-| Last export | 2026-04-09T19:26:29.090350+00:00 |
+| Full dataset size | 238 records |
+| Free sample size | 23 records (9.66%) |
+| Last export | 2026-04-16T22:52:04.908223+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/independent-restaurants-experiencing-a-30-crash-in-foot-traffic-sentiment-this-qua-sample-229153/releases/download/sample-latest/beamstation_229153_food_and_drink-us-id_SAMPLE_DIST.csv) |
 
 ## What is in this sample
